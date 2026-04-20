@@ -70,6 +70,7 @@ nav {
     justify-content: center;
     text-align: center;
     color: #ffffff;
+    margin-top: 30px;
 }
 
 .hero::after {
